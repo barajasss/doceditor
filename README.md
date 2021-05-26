@@ -1,4 +1,4 @@
-# doceditor
+# Doc Editor
 Application code for the MERN stack youtube video.
 
 VIDEO LINK: https://youtu.be/dtLXZEuZbeQ
